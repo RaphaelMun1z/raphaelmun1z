@@ -95,18 +95,8 @@
 ##
 
 <section style="width: 100%;">
-	<table style="width: 100%;">
-		<tr>
-			<h3>🚀 <b>Portfólio</b></h3>
-		</tr>
-		<tr style="width: 100%;">
-			<td style="border: none; padding: 10px; text-align: center; background-color: transparent;">
-				<a><p>Acesse meu portfólio clicando aqui</p></a>
-			</td>
-			<td style="border: none; padding: 10px; text-align: center;">
-				<img src="./2.png">	
-			</td>
-		</tr>
-	</table>
+	<h3>🚀 <b>Portfólio</b></h3>
+	<a href="https://portfolio-frontend-phi-one.vercel.app/" target="_blank"><img src="./2.png"></a>r>
 </section>
+<a name="my-custom-anchor-point"></a>
 
