@@ -85,16 +85,20 @@
 <section>
 	<h3>📌 <b>Principais Repositórios</b></h3>
 	<div>
-		<a href="https://github.com/RaphaelMun1z/SpringBoot-Dealership">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelmun1z&repo=SpringBoot-Dealership&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gotham" />
+		<a href="https://github.com/RaphaelMun1z/Spring-Dealership">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelmun1z&repo=Spring-Dealership&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gotham" />
 		</a>
-		<a href="https://github.com/RaphaelMun1z/SpringBoot-LeaseInsight">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelmun1z&repo=SpringBoot-LeaseInsight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gotham" />
+		<a href="https://github.com/RaphaelMun1z/Spring-LeaseInsight">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelmun1z&repo=Spring-LeaseInsight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gotham" />
 		</a>
 	</div>
 	<div>
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelmun1z&repo=SpringBoot-Dealership&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gotham" />
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelmun1z&repo=SpringBoot-LeaseInsight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gotham" />
+		<a href="https://github.com/RaphaelMun1z/Angular-Blog">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelmun1z&repo=Angular-Blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gotham" />
+		</a>
+		<a href="https://github.com/RaphaelMun1z/Angular-Buzz-feed">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelmun1z&repo=Angular-Buzz-feed&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gotham" />
+		</a>
 	</div>
 </section>
 
