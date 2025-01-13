@@ -107,7 +107,7 @@
 <section>
 	<h3>🚀 <b>Portfólio</b></h3>
 	<div>
-		<a href="www.portfolioraphaelmuniz.tech" target="_blank">
+		<a href="https://www.portfolioraphaelmuniz.tech" target="_blank">
 			<img src="./2.png">
 		</a>
 	</div>
