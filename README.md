@@ -1,7 +1,7 @@
 ## Olá! Me chamo Raphael Muniz, seja bem-vindo(a) ao meu GitHub 😃
 
 ### 🌟 Sobre
-#### &emsp;Sou desenvolvedor full stack (Spring e Angular), com proficiência no backend, estou me especializando em desenvolvimento de sistemas complexos, que demandam conhecimento em técnicas específicas para a resolução de desafios. Sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia, atualmente estou no 2° período.
+#### &emsp;Sou desenvolvedor full stack (Spring e Angular), com proficiência no backend, estou me especializando em desenvolvimento de sistemas complexos, que demandam conhecimento em técnicas específicas para a resolução de desafios. Sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia, atualmente estou no 4° período.
 
 <img src="./1.png"/>
 
