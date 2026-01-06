@@ -32,12 +32,50 @@ Atualmente sou estudante de **Sistemas de Informação pela Universidade Federal
 
 ## Stack Tecnológica
 
-| Área | Tecnologias |
-|------|-------------|
-| **Backend** | <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/> Java &nbsp; <img height="22" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/> Spring &nbsp; <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> Node.js |
-| **Frontend** | <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/> TypeScript &nbsp; <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/> Angular &nbsp; <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> React |
-| **Banco de Dados** | <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> PostgreSQL &nbsp; <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> MySQL &nbsp; <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> MongoDB &nbsp; <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"/> Redis |
-| **DevOps / Infra** | <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/> Docker &nbsp; CI/CD &nbsp; <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"/> Azure |
+### Backend
+<div>
+  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="26" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+</div>
+
+---
+
+### Frontend
+<div>
+  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+</div>
+
+---
+
+### Banco de Dados
+<div>
+  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"/>
+</div>
+
+---
+
+### DevOps / Infra
+<div>
+  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"/>
+</div>
+
 
 ---
 
@@ -60,29 +98,6 @@ Atualmente sou estudante de **Sistemas de Informação pela Universidade Federal
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelmunizvarela@gmail.com)
 
 </div>
-
----
-
-## Estatísticas
-<div align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raphaelmun1z&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmun1z&langs_count=3&theme=github_dark&hide_border=true" height="160"/>
-
-</div>
-
----
-
-## Projetos em Destaque
-<div align="left">
-
-<a href="https://github.com/RaphaelMun1z/Spring-Dealership">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelmun1z&repo=Spring-Dealership&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/RaphaelMun1z/Spring-LeaseInsight">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelmun1z&repo=Spring-LeaseInsight&theme=github_dark&hide_border=true"/>
-</a>
 
 </div>
 
