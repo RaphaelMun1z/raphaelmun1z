@@ -1,4 +1,4 @@
-<img width="1913" height="917" alt="image" src="https://github.com/user-attachments/assets/c689784a-6ae4-4f06-92f3-4d1b6cd87f99" />## Raphael Muniz
+## Raphael Muniz
 **Desenvolvedor de Software Full Stack**
 
 Sou desenvolvedor de software full stack com forte atuação em backend, focado no desenvolvimento de **sistemas bem arquitetados, escaláveis e orientados a boas práticas de engenharia de software**.
@@ -106,6 +106,6 @@ Atualmente sou estudante de **Sistemas de Informação pela Universidade Federal
 ## Portfólio
 <div align="center">
   <a href="https://raphaelmun1z.github.io/PortfolioRaphaelMuniz/index.html" target="_blank">
-    <img src="./2.png"/>
+    <img width="1913" height="917" alt="image" src="https://github.com/user-attachments/assets/c689784a-6ae4-4f06-92f3-4d1b6cd87f99" />
   </a>
 </div>
