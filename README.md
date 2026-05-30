@@ -167,7 +167,16 @@ Tenho experiência sólida atuando no desenvolvimento de ponta a ponta em projet
 
 ---
 
-## 📈 Métricas
+## 📈 Métricas e Atividade
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelmun1z&theme=dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=raphaelmun1z&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmun1z&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas"/>
+</div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphaelmun1z/raphaelmun1z/output/github-contribution-grid-snake-dark.svg">
