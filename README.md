@@ -9,6 +9,14 @@ Sou **Engenheiro de Software Full Stack** especializado em back-end Java com Spr
 
 ---
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/raphael-muniz-varela" target="_blank">
+    <img src="header.jpg" alt="Banner" width="100%"/>
+  </a>
+</div>
+
+---
+
 ## 🏢 Autotech Sistemas (Freelancer)
 Atuo profissionalmente como desenvolvedor freelancer e fundador através da **Autotech Sistemas**, uma agência de desenvolvimento de software. Sob essa identidade, planejo e desenvolvo produtos comerciais robustos e soluções tecnológicas sob medida para clientes, incluindo sistemas de gestão (ERP), catálogos digitais e plataformas escaláveis.
 
