@@ -1,85 +1,86 @@
 ## Raphael Muniz
-**Desenvolvedor de Software Full Stack**
+**Engenheiro de Software | Java · Spring Boot · Spring Security · Spring Cloud · Angular · TypeScript | REST APIs · Microservices · Docker · Kubernetes · PostgreSQL · Redis · MySQL · MongoDB · Azure · AI/LLMs**
 
-Sou desenvolvedor de software full stack com forte atuação em backend, focado no desenvolvimento de **sistemas bem arquitetados, escaláveis e orientados a boas práticas de engenharia de software**.
+Sou **Engenheiro de Software Full Stack** especializado em back-end Java com Spring Boot, Spring Security, Spring Data JPA e Spring Cloud — construindo APIs RESTful escaláveis e seguras. Tenho forte atuação no desenvolvimento de sistemas bem arquitetados e orientados a boas práticas de engenharia de software (SOLID, Clean Code).
 
-Meu principal interesse profissional está na área de **desenvolvimento/engenharia de software**, com atuação secundária em **testes de software** e **robótica**. Possuo experiência com aplicações web modernas, APIs RESTful e arquitetura de sistemas.
-
-Atualmente sou estudante de **Sistemas de Informação pela Universidade Federal de Uberlândia (UFU)** e sigo em constante evolução técnica.
-
-<img src="./1.png"/>
+- 🎓 Cursando **Sistemas de Informação na UFU** (5º período), com previsão de conclusão em dezembro de 2027.
+- 🏫 Formação técnica em Informática pelo **IFSP**.
+- 🚀 Autodidata por natureza — aprendo tecnologias novas com profundidade e independência.
 
 ---
 
-## Sobre
-- Desenvolvimento de **APIs RESTful** e **microserviços**
-- Aplicação de **SOLID**, **Clean Code** e boas práticas
-- Vivência com **Scrum** e metodologias ágeis
-- Conhecimento em **CI/CD** e automação de pipelines
-- Uso de **Docker** para containerização de aplicações
-- Perfil autodidata e orientado a aprendizado contínuo
+## 🏢 Autotech Sistemas (Freelancer)
+Atuo profissionalmente como desenvolvedor freelancer e fundador através da **Autotech Sistemas**, uma agência de desenvolvimento de software. Sob essa identidade, planejo e desenvolvo produtos comerciais robustos e soluções tecnológicas sob medida para clientes, incluindo sistemas de gestão (ERP), catálogos digitais e plataformas escaláveis.
 
----
-
-## Experiências Complementares
-- 🤖 Participação em **eventos de robótica**, representando o **IFSP**
-- 👨‍🏫 Experiência ministrando **aulas de programação para web e robótica**
-- 🧪 Interesse e atuação secundária em **testes de software**
-- 🧠 Conhecimentos introdutórios em **Inteligência Artificial**
-- 🔧 Vivência com integração **software–hardware**
-
----
-
-## Stack Tecnológica
-
-### Backend
-<div>
-  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="26" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+<div align="center">
+  <a href="https://portfolio.autotechsistemas.com.br/" target="_blank">
+    <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Autotech Sistemas" width="100%"/>
+  </a>
 </div>
 
 ---
 
-### Frontend
+## 💼 Experiência Prática e Projetos
+Tenho experiência sólida atuando no desenvolvimento de ponta a ponta em projetos reais:
+
+- 🛒 **Plataforma de E-commerce Full Stack:** Back-end com Spring Boot, front-end em Angular, autenticação JWT e controle de acesso baseado em perfis (Admin/Cliente).
+- 🤖 **Assistente de IA Generativa:** Integração com LLMs locais via Ollama, desenvolvendo a API RESTful com Spring Boot/Spring Security e interface reativa em Angular.
+- 🏥 **Iniciação Científica (UFU/HC-EBSERH):** Desenvolvimento de um sistema full stack para gestão hospitalar.
+
+*(Experiências complementares incluem atuação com robótica representando o IFSP, ministração de aulas de programação web/robótica e vivência com integração software-hardware).*
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Back-end
 <div>
-  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" title="Spring Boot / Cloud / Security"/>
+</div>
+
+### Front-end
+<div>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular"/>
+</div>
+
+### Testes de Software
+<div>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" title="JUnit"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" alt="Cypress" title="Cypress"/>
+</div>
+
+### Banco de Dados & Cache
+<div>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis"/>
+</div>
+
+### DevOps, Cloud & IA
+<div>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/ollama.png" alt="Ollama" title="Ollama" style="border-radius: 5px;"/>
 </div>
 
 ---
 
-### Banco de Dados
-<div>
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"/>
-</div>
-
----
-
-### DevOps / Infra
-<div>
-  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"/>
-</div>
-
-
----
-
-## Conhecimentos Técnicos
+## 🧠 Conhecimentos Técnicos
 - Desenvolvimento e consumo de APIs RESTful
 - Arquitetura em camadas e microserviços
 - SOLID, Clean Code e padrões de projeto
@@ -90,22 +91,37 @@ Atualmente sou estudante de **Sistemas de Informação pela Universidade Federal
 
 ---
 
-## Contato
+## 📫 Contato & Links
 <div align="left">
-
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://raphaelmun1z.github.io/PortfolioRaphaelMuniz/index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-muniz-7119911a2/)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelmunizvarela@gmail.com)
-
-</div>
-
+  <a href="https://portfolio.autotechsistemas.com.br/">
+    <img src="https://img.shields.io/badge/Autotech_Sistemas-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Autotech Sistemas">
+  </a>
+  <a href="https://www.linkedin.com/in/raphael-muniz-7119911a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:raphaelmunizvarela@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
 ---
 
-## Portfólio
+## 💻 Portfólio Pessoal
 <div align="center">
   <a href="https://raphaelmun1z.github.io/PortfolioRaphaelMuniz/index.html" target="_blank">
-    <img width="1913" height="917" alt="image" src="https://github.com/user-attachments/assets/c689784a-6ae4-4f06-92f3-4d1b6cd87f99" />
+    <img width="100%" alt="Portfólio Raphael Muniz" src="https://github.com/user-attachments/assets/c689784a-6ae4-4f06-92f3-4d1b6cd87f99" />
   </a>
 </div>
+
+---
+
+## 🏢 Portfólio Autotech Sistemas
+<div align="center">
+  <a href="https://portfolio.autotechsistemas.com.br/" target="_blank">
+    <img width="100%" alt="Portfólio Autotech Sistemas" src="URL_DA_IMAGEM_DO_PORTFOLIO_AUTOTECH_AQUI" />
+  </a>
+</div>
+
+
+
+
