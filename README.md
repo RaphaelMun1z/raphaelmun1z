@@ -14,7 +14,7 @@ Atuo profissionalmente como desenvolvedor freelancer e fundador através da **Au
 
 <div align="center">
   <a href="https://portfolio.autotechsistemas.com.br/" target="_blank">
-    <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Autotech Sistemas" width="100%"/>
+    <img src="autotech.png" alt="Autotech Sistemas" width="100%"/>
   </a>
 </div>
 
@@ -109,7 +109,7 @@ Tenho experiência sólida atuando no desenvolvimento de ponta a ponta em projet
 ## 💻 Portfólio Pessoal
 <div align="center">
   <a href="https://raphaelmun1z.github.io/PortfolioRaphaelMuniz/index.html" target="_blank">
-    <img width="100%" alt="Portfólio Raphael Muniz" src="https://github.com/user-attachments/assets/c689784a-6ae4-4f06-92f3-4d1b6cd87f99" />
+    <img width="100%" alt="Portfólio Raphael Muniz" src="2.png" />
   </a>
 </div>
 
@@ -118,7 +118,7 @@ Tenho experiência sólida atuando no desenvolvimento de ponta a ponta em projet
 ## 🏢 Portfólio Autotech Sistemas
 <div align="center">
   <a href="https://portfolio.autotechsistemas.com.br/" target="_blank">
-    <img width="100%" alt="Portfólio Autotech Sistemas" src="URL_DA_IMAGEM_DO_PORTFOLIO_AUTOTECH_AQUI" />
+    <img width="100%" alt="Portfólio Autotech Sistemas" src="autotech.png" />
   </a>
 </div>
 
