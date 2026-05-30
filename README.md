@@ -170,16 +170,16 @@ Tenho experiência sólida atuando no desenvolvimento de ponta a ponta em projet
 ## 📈 Métricas e Atividade
 
 <div align="center">
-  <img src="https://gitlyy.vercel.app/api/profile?username=RaphaelMun1z&hide_border=false" width="48%" alt="Perfil GitHub"/>
-  &nbsp;&nbsp;
+  <img src="https://gitlyy.vercel.app/api/profile?username=RaphaelMun1z&hide_border=false" width="48%" alt="Perfil GitHub 1"/>
+  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelmun1z&theme=dark&hide_border=true" width="48%" alt="Sequência de Commits"/>
-</div>
 
-<br>
-
-<div align="center">
+  <img src="https://gitlyy.vercel.app/api/profile?username=Autotech-Sistemas&hide_border=false" width="48%" alt="Perfil GitHub 2"/>
+  &nbsp;
   <img src="https://gitlyy.vercel.app/api/languages?username=RaphaelMun1z&layout=donut&hide_border=false" width="48%" alt="Linguagens Mais Usadas"/>
-  &nbsp;&nbsp;
+
+  <img src="https://gitlyy.vercel.app/api/profile?username=UFU-Atividades&hide_border=false" width="48%" alt="Perfil GitHub 3"/>
+  &nbsp;
   <img src="https://gitlyy.vercel.app/api/commits?username=RaphaelMun1z&layout=compact&hide_border=false" width="48%" alt="Commits Recentes"/>
 </div>
 
