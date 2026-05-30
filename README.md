@@ -39,6 +39,41 @@ Tenho experiência sólida atuando no desenvolvimento de ponta a ponta em projet
 
 ---
 
+## 🖥️ Alguns Dos Meus Projetos (Front-end)
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="URL_DO_SEU_PROJETO_1_AQUI" target="_blank">
+        <img src="proj_front_1.png" alt="Projeto 1" width="100%"/>
+      </a>
+      <br><b>E-commerce - E-Shop</b>
+    </td>
+    <td align="center" width="50%">
+      <a href="URL_DO_SEU_PROJETO_2_AQUI" target="_blank">
+        <img src="proj_front_2.png" alt="Projeto 2" width="100%"/>
+      </a>
+      <br><b>Assistente de IA Generativa - ChatGepeteco</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="URL_DO_SEU_PROJETO_3_AQUI" target="_blank">
+        <img src="proj_front_3.png" alt="Projeto 3" width="100%"/>
+      </a>
+      <br><b>Site Institucional - AutoMec</b>
+    </td>
+    <td align="center" width="50%">
+      <a href="URL_DO_SEU_PROJETO_4_AQUI" target="_blank">
+        <img src="proj_front_4.png" alt="Projeto 4" width="100%"/>
+      </a>
+      <br><b>Sistema de Catálogo - Imobiliária LeaseInsight</b>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Stack Tecnológica
 
 ### Back-end
@@ -129,7 +164,3 @@ Tenho experiência sólida atuando no desenvolvimento de ponta a ponta em projet
     <img width="100%" alt="Portfólio Autotech Sistemas" src="portfolio-autotech.png" />
   </a>
 </div>
-
-
-
-
