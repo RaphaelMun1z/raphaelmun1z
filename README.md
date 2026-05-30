@@ -14,7 +14,7 @@ Atuo profissionalmente como desenvolvedor freelancer e fundador através da **Au
 
 <div align="center">
   <a href="https://portfolio.autotechsistemas.com.br/" target="_blank">
-    <img src="logo-autotech.png" alt="Autotech Sistemas" width="100%"/>
+    <img src="AutotechLogo.png" alt="Autotech Sistemas" width="50%"/>
   </a>
 </div>
 
@@ -118,7 +118,7 @@ Tenho experiência sólida atuando no desenvolvimento de ponta a ponta em projet
 ## 🏢 Portfólio Autotech Sistemas
 <div align="center">
   <a href="https://portfolio.autotechsistemas.com.br/" target="_blank">
-    <img width="100%" alt="Portfólio Autotech Sistemas" src="og-image-autotech.png" />
+    <img width="100%" alt="Portfólio Autotech Sistemas" src="portfolio-autotech.png" />
   </a>
 </div>
 
