@@ -168,19 +168,27 @@ Tenho experiência sólida atuando no desenvolvimento de ponta a ponta em projet
 ---
 
 ## 📈 Métricas e Atividade
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelmun1z&theme=dark&hide_border=true"/>
-</div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=raphaelmun1z&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmun1z&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas"/>
+  <img src="https://gitlyy.vercel.app/api/profile?username=RaphaelMun1z&hide_border=false" width="48%" alt="Perfil GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelmun1z&theme=dark&hide_border=true" width="48%" alt="Sequência de Commits"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://gitlyy.vercel.app/api/languages?username=RaphaelMun1z&layout=donut&hide_border=false" width="48%" alt="Linguagens Mais Usadas"/>
+  &nbsp;&nbsp;
+  <img src="https://gitlyy.vercel.app/api/commits?username=RaphaelMun1z&layout=compact&hide_border=false" width="48%" alt="Commits Recentes"/>
+</div>
+
+<br>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphaelmun1z/raphaelmun1z/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphaelmun1z/raphaelmun1z/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/raphaelmun1z/raphaelmun1z/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" width="100%" src="https://raw.githubusercontent.com/raphaelmun1z/raphaelmun1z/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
