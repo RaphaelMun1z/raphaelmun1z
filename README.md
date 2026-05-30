@@ -44,13 +44,13 @@ Tenho experiência sólida atuando no desenvolvimento de ponta a ponta em projet
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="URL_DO_SEU_PROJETO_1_AQUI" target="_blank">
+      <a href="https://github.com/Autotech-Sistemas/Angular-Ecommerce-Layout" target="_blank">
         <img src="proj_front_1.png" alt="Projeto 1" width="100%"/>
       </a>
       <br><b>E-commerce - E-Shop</b>
     </td>
     <td align="center" width="50%">
-      <a href="URL_DO_SEU_PROJETO_2_AQUI" target="_blank">
+      <a href="https://github.com/RaphaelMun1z/Angular-ChatGepeteco" target="_blank">
         <img src="proj_front_2.png" alt="Projeto 2" width="100%"/>
       </a>
       <br><b>Assistente de IA Generativa - ChatGepeteco</b>
@@ -58,13 +58,13 @@ Tenho experiência sólida atuando no desenvolvimento de ponta a ponta em projet
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="URL_DO_SEU_PROJETO_3_AQUI" target="_blank">
+      <a href="https://github.com/Autotech-Sistemas/Angular-LandingPage-AutoMec" target="_blank">
         <img src="proj_front_3.png" alt="Projeto 3" width="100%"/>
       </a>
       <br><b>Site Institucional - AutoMec</b>
     </td>
     <td align="center" width="50%">
-      <a href="URL_DO_SEU_PROJETO_4_AQUI" target="_blank">
+      <a href="https://github.com/RaphaelMun1z/Angular-LeaseInsight" target="_blank">
         <img src="proj_front_4.png" alt="Projeto 4" width="100%"/>
       </a>
       <br><b>Sistema de Catálogo - Imobiliária LeaseInsight</b>
