@@ -3,7 +3,7 @@
 
 Sou **Engenheiro de Software Full Stack** especializado em back-end Java com Spring Boot, Spring Security, Spring Data JPA e Spring Cloud — construindo APIs RESTful escaláveis e seguras. Tenho forte atuação no desenvolvimento de sistemas bem arquitetados e orientados a boas práticas de engenharia de software (SOLID, Clean Code).
 
-- 🎓 Cursando **Sistemas de Informação na UFU** (5º período), com previsão de conclusão em dezembro de 2027.
+- 🎓 Cursando **Sistemas de Informação na UFU** (6º período), com previsão de conclusão em dezembro de 2027.
 - 🏫 Formação técnica em Informática pelo **IFSP**.
 - 🚀 Autodidata por natureza — aprendo tecnologias novas com profundidade e independência.
 
